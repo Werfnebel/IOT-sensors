@@ -1,0 +1,9 @@
+*.log
+test/
+lib/
+include/
+.vscode/
+.pio/
+platformio.ini
+ssid_info.c
+ssid_info.h
